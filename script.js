@@ -405,7 +405,7 @@ document.addEventListener('DOMContentLoaded', function() {
         counter.innerHTML = `
             <div class="counter-content">
                 <span class="counter-number">${posterCards.length}</span>
-                <span class="counter-label">ПЛАКАТОВ В КОЛЛЕКЦИИ</span>
+                <span class="counter-label">ПЛАКАТА В КОЛЛЕКЦИИ</span>
             </div>
         `;
 
